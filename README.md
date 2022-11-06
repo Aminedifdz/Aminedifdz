@@ -4,9 +4,9 @@
 
 ## Contact Me :
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/Aminedifdz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-amine-dif-56408722b)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammed.amine.dif)
+[![GitHub](https://img.shields.io/badge/Follow_Me-000000.svg?logo=github&logoColor=white)](https://github.com/Aminedifdz)
+[![LinkedIn](https://img.shields.io/badge/Hire_Me-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-amine-dif-56408722b)
+[![Facebook](https://img.shields.io/badge/Contact_Me-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammed.amine.dif)
 
 ------------
 
